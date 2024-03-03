@@ -1,4 +1,4 @@
-Trabalho para uninter da matéria de atividade extensionista 2 
+ATIVIDADE EXTENSIONISTA 2 _ UNINTER
 
 O projeto consiste em um calculador de materiais para obras de construção civil, desenvolvido em Python. 
 Ele permite calcular os materiais necessários para a fundação e estrutura de uma obra,
